@@ -1,0 +1,18 @@
+package id.elharies.composereader.screen.stats
+
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
+
+@Composable
+fun StatsScreen(
+    modifier: Modifier = Modifier
+) {
+
+}
+
+@Preview
+@Composable
+private fun PreviewStatsScreen() {
+    StatsScreen()
+}
